@@ -9,7 +9,8 @@ I am currently a student of a Microsoft🪟 program that is teaching cloud☁️
 - 💬 Ask me about snowboarding, 3D printing, and anything tech related!
 
 ### My skills
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="50"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50"/> <img src="https://cdn-icons-png.flaticon.com/512/337/337953.png" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" width="50"/> <img src="https://cdn-60c35131c1ac185aa47dd21e.closte.com/wp-content/uploads/2019/05/terminal-app-icon.png" width="50"/>
+
 
 <!--
 **Mowiewowie/Mowiewowie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
