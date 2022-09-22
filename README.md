@@ -4,7 +4,7 @@ I am currently a student of a Microsoft🪟 program that is teaching cloud☁️
 
 ### Some quick points
 - 🔭 I’m currently working on a web app! More info will be released once we reach MVP!
-- 🌱 Learning C#, JavaScipt, HTML/CSS, Azure, and various other technologies
+- 🌱 Learning C#, JavaScipt, HTML/CSS, Azure, programming design patterns (OOP, MVC), and various other technologies
 - 👯 I’m looking to collaborate on tips and tricks for JavaScript and React for my web app. Any cool Youtube channels?
 - 💬 Ask me about snowboarding, 3D printing, and anything tech related!
 
